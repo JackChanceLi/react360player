@@ -1,0 +1,2 @@
+# react360player
+基于react360框架的web端全景视频播放器，目前支持mp4和dash格式的直播或者点播
